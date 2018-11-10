@@ -53,6 +53,8 @@ class TemperatureInput extends Component {
     }
 }
 
+//  component with "source of truth"
+//  for TemperatureInput child components
 class Calculator extends Component {
 
     constructor(props) {
